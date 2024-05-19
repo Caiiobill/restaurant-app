@@ -1,0 +1,11 @@
+@media (min-width: 1440px) {
+	.heroCardImages {
+		padding: 0 8rem;
+	}
+}
+
+@media (max-width: 1024px) {
+	.img-content {
+		height: 110px;
+	}
+}
